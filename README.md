@@ -9,7 +9,7 @@ python: 3.72
 Pretrained model: https://drive.google.com/drive/folders/1PgsXFUc7aHxn_jA3fCFTHq1VxVavKer2?usp=sharing
 
 
-
+<br/><br/>
 
 MNIST:
 training data: it will be automatically downloaded to "MNIST/data" once you run "EAD-GAN_rpqmnxy.py"
@@ -25,7 +25,7 @@ inference:
 
 
 
-
+<br/><br/>
 
 CelebA:
 training data: 
@@ -42,7 +42,7 @@ inference:
 
 
 
-
+<br/><br/>
 
 dSprites:
 training data:
@@ -60,7 +60,7 @@ disentanglement score
 
 
 
-
+<br/><br/>
 
 colored-dSprites:
 training data:
