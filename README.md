@@ -4,7 +4,7 @@ environment
 
 pytorch: 1.71
 CUDA: 11.0
-python: 3.72
+python: 3.7.2
 
 Pretrained model: https://drive.google.com/drive/folders/1PgsXFUc7aHxn_jA3fCFTHq1VxVavKer2?usp=sharing
 
